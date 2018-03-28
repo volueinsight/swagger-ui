@@ -1,5 +1,5 @@
 # Swagger UI
-
+ To be use in Wapi
 [![NPM version](https://badge.fury.io/js/swagger-ui.svg)](http://badge.fury.io/js/swagger-ui)
 
 ## New!
